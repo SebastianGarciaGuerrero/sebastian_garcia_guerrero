@@ -7,7 +7,7 @@ def mostrar_mensaje():
 
 # Ventana principal
 ventana = tk.Tk()
-ventana.title("Ejemplo botón")
+ventana.title("Botón de saludo")
 ventana.geometry("200x100")
 
 # Botón
